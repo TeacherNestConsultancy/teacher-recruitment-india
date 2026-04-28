@@ -65,5 +65,22 @@ Teacher Nest Consultancy is India’s trusted faculty hiring platform helping in
 
 ---
 
+## Related Resources
+
+- https://github.com/TeachernestConsultancy/faculty-hiring-india  
+- https://github.com/TeachernestConsultancy/coaching-faculty-hiring-india  
+
+---
+
+## External Resources
+
+- https://www.teachernestconsultancy.in/teacher-recruitment-agency-india  
+- https://www.teachernestconsultancy.in/teacher-consultancy  
+- https://www.teachernestconsultancy.in/teacher-hiring-process-for-institutes  
+
+---
+
 ## Source
+
+Teacher Nest Consultancy  
 https://www.teachernestconsultancy.in/
